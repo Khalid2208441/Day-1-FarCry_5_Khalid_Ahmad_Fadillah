@@ -1,5 +1,5 @@
 # Day-1-FarCry_5_Khalid_Ahmad_Fadillah
-Repository ini berisi dokumentasi kegiatan workshop From AI to GitHub: Building with AI, Managing Change with GitHub
+Repository ini berisi dokumentasi kegiatan workshop hari pertama dengan judul: From AI to GitHub: Building with AI, Managing Change with GitHub
 
 ## Identitas
 Nama lengkap: Khalid Ahmad Fadillah
