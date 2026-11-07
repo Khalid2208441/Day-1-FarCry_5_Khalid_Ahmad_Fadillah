@@ -8,7 +8,7 @@ Repository ini berisi dokumentasi kegiatan workshop, yaitu rangkuman materi, poi
 ## Tujuan Repository
 Repository ini dibuat untuk mengumpulkan dokumentasi kegiatan workshop, seperti materi yang disampaikan dan catatan pembelajaran selama workshop berlangsung. Diharapkan GitHub dapat dimanfaatkan sebagai media penyimpanan, pengelolaan, dan publikasi dokumentasi proyek secara daring.
 
-## Informasi Workshop
+## Informasi mengenai Workshop
 Workshop berjudul From AI to GitHub: Building with AI, Managing Change with GitHub, dengan pemateri Nugi Farhan. Topiknya adalah prompt engineering serta manajemen perubahan dengan Git dan GitHub. Praktiknya membuat aplikasi web sederhana bernama Student Task Planner.
 
 ## Rangkuman Materi
